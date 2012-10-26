@@ -1,0 +1,1 @@
+awk '{gsub(/text_to_replace/,"replacement_text")}; 1' file.txt

@@ -1,0 +1,40 @@
+#!/bin/bash
+
+########################################
+#
+# connects to specified sftp site and performs an ls
+# in order to get a file listing for the filespec
+# specified
+#
+# sample usage:
+#   $ getFileListAtFtpSite acct@sftpServer dir_on_site fileSpec
+#
+#   dir_on_site is the directory to change to once connected to the sftp site
+#   
+function getFileListAtFtpSite
+{
+	sftp $1 <<EOF
+    cd $2
+    ls $3
+    quit
+EOF
+}
+
+
+sftpAccount=shansen
+sftpServer=10.100.2.79
+sftpDir=/home/shansen/moneris_test_dir
+fileSpec=B00*.GRSI
+regex=^B00.*GRSI
+tmpFile=dumpTmpData.txt
+
+getFileListAtFtpSite ${sftpAccount}@${sftpServer} ${sftpDir} ${fileSpec} >> ${tmpFile}
+
+num_files=`grep -c ${regex} ${tmpFile}`
+echo "found ${num_files} matches in output"
+echo
+
+#cat ${tmpFile}
+
+rm ${tmpFile}
+

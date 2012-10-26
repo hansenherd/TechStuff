@@ -1,0 +1,20 @@
+A filter for feeding arguments to a command, and also a tool for assembling the commands
+themselves. It breaks a data stream into small enough chunks for filters and commands to process.
+
+Default command for xargs is echo, so these are equivalent:
+
+  $ ls | xargs
+  $ ls | xargs echo
+
+NOTE: that xargs processes the arguments passed to it sequentially, one at a time.
+
+Normally, xargs reads from stdin or from a pipe, but it can also be given the output of a file.
+
+example usages:
+
+# remove .txt files older than 30 days
+  $ find . -name "*.txt" -mtime +30 | xargs rm
+
+
+
+

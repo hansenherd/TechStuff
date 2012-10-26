@@ -1,0 +1,345 @@
+0|2106|189854|Linda Firmani & David ||Benson|||PO Box 681||EDMONDS|WA|US|98020||||02/23/2013|1|2/23/2013||||
+0|2106|189747|Llwellyn ||Antel|||1512 Falstone Lane||CROFTON|MD|US|21114||||02/23/2013|1|2/23/2013||||
+0|2106|107644|Theresa ||Brenner|||340 West 3rd St Apt 219||NORTH VANCOUVER|BC|CA|V7M 1G4||||02/23/2013|1|2/23/2013||||
+0|2106|122104|Glen & Maxine ||Sasyniuk|||33699 Lincoln Road||ABBOTSFORD|BC|CA|V2S 1S1||||02/21/2013|1|2/21/2013||||
+0|2106|195666|Benjamin ||Imai|||18482 Topanga Canyon Rd||SILVERADO|CA|US|92676||||02/17/2013|1|2/17/2013||||
+0|2106|195162|Kenneth & Corinne ||Ferguson|||PO Box 671||CLARESHOLM|AB|CA|T0L 0T0||||02/18/2013|1|2/18/2013||||
+0|2106|195468|Keir & Janice ||Kutney|||1 Tessa Place||LACOMBE|AB|CA|T4L 2N9||||02/23/2013|1|2/23/2013||||
+0|2106|153990|Joette ||Manninen|||PO Box 113064||METAIRIE|LA|US|70011||||02/18/2015|1|2/18/2015||||
+0|2106|200349|David ||Montoya|||56 Ossington Ave||OTTAWA|ON|CA|K1S 3B6||||02/20/2015|1|2/20/2015||||
+
+0|2106|234354|Lemer ||Boyes|||3140 Bonita Rd Apt 206||CHULA VISTA|CA|US|91910||||02/23/2013|1|2/23/2013||||
+0|2106|126175|Larry & Maria ||Candido|||813 Bourbon Ct||MOUNTAIN VIEW|CA|US|94041||||02/21/2013|1|2/21/2013||||
+0|2106|161995|Sheldon Ho & Karen ||Luk|||1726 22 Avenue NW||CALGARY|AB|CA|T2M 1R5||||02/22/2013|1|2/22/2013||||
+0|2106|185228|Fred ||Hunter|||3668 NW Cotton Place||BEND|OR|US|97701||||02/21/2013|1|2/21/2013||||
+0|2106|188450|John ||Dileonardo|||83 Nottingham Dr||MIDDLE ISLAND|NY|US|11953||||02/23/2015|1|2/23/2015||||
+0|2106|202670|Martin ||Valence|||406 Rue Bolduc||SHERBROOKE|QC|CA|J1L 1H7||||02/17/2015|1|2/17/2015||||
+0|2106|200605|Ernie Di ||Vito|||7250 North 16th Street #402||PHOENIX|AZ|US|85020||||02/22/2013|1|2/22/2013||||
+
+0|2106|421875|Austin & Megan||Patton|||361 NE Delaware Ave 615||ANKENY|IA|US|50021||||02/21/2013|1|2/21/2013||||
+0|2106|420182|Christopher Shough & Jennifer||Antonelli|||37 Country Club Blvd.||SCOTCH PLAINS|NJ|US|07076||||02/21/2013|1|2/21/2013||||
+0|2106|421876|Jack & Helen||McMahon|||9889 Weir Rd||CIBOLO|TX|US|78108||||02/21/2013|1|2/21/2013||||
+0|2106|421877|Christopher & Lisa||Cusmano|||64 Parkridge Ave||NEW RACHELLE|NY|US|10805||||02/21/2013|1|2/21/2013||||
+0|2106|421878|Robert & Jeanne||Jones|||73 Myrtle Island Rd||BLUFFTON|SC|US|29910||||02/21/2013|1|2/21/2013||||
+0|2106|421879|Dickie & Deannie||Roberts|||PO Box 3371||BORGER|TX|US|79008||||02/21/2013|1|2/21/2013||||
+0|2106|421881|Charles & Diane||Garland|||345 Wintree Lane||NEW LENOX|IL|US|60451||||02/21/2013|1|2/21/2013||||
+0|2106|421882|Allan & Donna||Brunmeier|||430 Wintree Lane||NEW LENOX|IL|US|60451||||02/21/2013|1|2/21/2013||||
+0|2106|421883|Robert & Misti||Thomas|||6205 W. Poinsettia Dr.||GLENDALE|AZ|US|85304||||02/21/2013|1|2/21/2013||||
+0|2106|421884|Lawrence & Gina||Rudy|||20581 Sycamore Dr.||SPRING HILL|KS|US|66083||||02/21/2013|1|2/21/2013||||
+0|2106|421885|Jerry Karcher & Kim||Evans|||2826 Overview Dr.||COLUMBIA|IL|US|62236||||02/21/2013|1|2/21/2013||||
+0|2106|421886|Kevin & Rebecca||Huck|||1779 Briggs Ct||LISLE|IL|US|60532||||02/21/2013|1|2/21/2013||||
+0|2106|421887|Julie & Robert||Baker|||9901 Melrose||OVERLAND PARK|KS|US|66214||||02/21/2013|1|2/21/2013||||
+0|2106|421888|Mark & Virginia||Altieri|||1364 Phenix Ave||CRANSTON|RI|US|02921||||02/21/2013|1|2/21/2013||||
+0|2106|421889|Paul & Tricia||Bower|||9622 Oakland Lake Way||MISSOURI CITY|TX|US|77459||||02/21/2013|1|2/21/2013||||
+0|2106|421890|Colleen & Edward||McConnell|||801 Chandler St||PHILADELPHIA|PA|US|19111||||02/21/2013|1|2/21/2013||||
+0|2106|421891|Sean & Michelle||Dolt|||15118 Milford St||PHILADELPHIA|PA|US|19116||||02/21/2013|1|2/21/2013||||
+0|2106|421892|Chad & Cindy||Feris|||17302 Mesquite Bruch Ln||HOUSTON|TX|US|77095||||02/21/2013|1|2/21/2013||||
+0|2106|421893|Stuart & Kathy||Cameron|||RR1, Site 22 Box 1||SUNDRE|AB|CA|T0M 1X0||||02/21/2013|1|2/21/2013||||
+0|2106|421894|Nicholas & Anne||Vonk|||219 Marshall St Unit 107||HOUSTON|TX|US|77006||||02/21/2013|1|2/21/2013||||
+0|2106|421895|Randy & Laurie||Miller|||5132-56 St||INNISFAIL|AB|CA|T4G 1R5||||02/21/2013|1|2/21/2013||||
+0|2106|421896|Gary & Betty||Aman|||1114 Twin Leaf Terrace||WEBSTER|NY|US|14580||||02/21/2013|1|2/21/2013||||
+0|2106|421947|Robert & Patricia||Janeway|||30925 Timberbrook Lane||BINGHAM FARMS|MI|US|48025||||02/21/2013|1|2/21/2013||||
+0|2106|421948|Glenn & Marissa||Krispense|||14003 E. 87th Pl. N||OWASSO|OK|US|74055||||02/21/2013|1|2/21/2013||||
+0|2106|421949|Kimberly & Jason||Bowden|||2005 Parker Rd||ST. PAUL|TX|US|75098||||02/21/2013|1|2/21/2013||||
+0|2106|421950|Roger & Linda||Soons|||12208 Lake Point Lane||COLLINSVILLE|MS|US|39325||||02/21/2013|1|2/21/2013||||
+0|2106|421951|Thomas & Lynn||Robbin|||2230 S. Oakwood Dr.||NEW PALESTINE|IN|US|46163||||02/21/2013|1|2/21/2013||||
+0|2106|421953|Lawrence Cooper & John||Keith|||502 W. Oakdale Dr||FORT WAYNE|IN|US|46807||||02/21/2013|1|2/21/2013||||
+0|2106|421954|David & Karin||Ambur|||27215 SE 306 St||BLACK DIAMOND|WA|US|98010||||02/21/2013|1|2/21/2013||||
+0|2106|421955|Michael & Carol||Hartney|||7164 N. Adford Terrace||CITRUS SPRINGS|FL|US|34434||||02/21/2013|1|2/21/2013||||
+0|2106|421956|Bruce & Debra||Boettner|||1707 Plainwood Cir||SHEBOYGAN|WI|US|53081||||02/21/2013|1|2/21/2013||||
+0|2106|421957|Barbara & Albert||Gunn|||10818 S. Normal||CHICAGO|IL|US|60628||||02/21/2013|1|2/21/2013||||
+0|2106|421958|Jeff & Melissa||Myska|||1870 Williamstown Dr||ST. PETERS|MD|US|63376||||02/21/2013|1|2/21/2013||||
+0|2106|421959|Chris & Kathryn||Zaganiaczyk|||71 Martinique Dr.||CHEEKTOWAGA|NY|US|14227||||02/21/2013|1|2/21/2013||||
+0|2106|421928|Ryan & Leslie||Stevenson|||821 W. Lacrosse Ave||COEUR D'ALENE|ID|US|83814||||02/21/2013|1|2/21/2013||||
+0|2106|421930|Nicholas & Raven||Weber|||33515 Trappers Run||ALBANY|LA|US|70711||||02/21/2013|1|2/21/2013||||
+0|2106|421931|Jack & Linda||Meylink|||380 Westlake Rd||AUBURN|CA|US|95602||||02/21/2013|1|2/21/2013||||
+0|2106|421932|David & Vicki||Wallace|||2780 Wistminster Way||SPRINGBORO|OH|US|45066||||02/21/2013|1|2/21/2013||||
+0|2106|421933|Ron & Margaret||Lanthier|||4245 Madeley Rd||NORTH VANCOUVER|BC|CA|V7N 4E1||||02/21/2013|1|2/21/2013||||
+0|2106|421934|Andrew & Judith||Weber|||1177 Fork Mountain Rd||BAKERSVILLE|NC|US|28205||||02/21/2013|1|2/21/2013||||
+0|2106|421935|Monica Vira & David||Valle|||1017 Jefferson St Unit 307||HOBOKEN|NJ|US|07030||||02/21/2013|1|2/21/2013||||
+0|2106|421936|Joseph & Kristi||Tennison|||4205 Vincennes Pl||NEW ORLEANS|LA|US|70125||||02/21/2013|1|2/21/2013||||
+0|2106|421937|Sherman & Deborah||Chan|||15 Sunset Square Unit 220||COCHRANE|AB|CA|T4C 0E7||||02/21/2013|1|2/21/2013||||
+0|2106|421939|Rob & Lynn||McIntosh|||4679 Oakhurst Ridge Rd||CLARKSTON|MI|US|48348||||02/21/2013|1|2/21/2013||||
+0|2106|421941|Brian & Lorraine||Macklin|||1334 McDonald Rd||ROSENEATH|ON|CA|K0K 2X0||||02/21/2013|1|2/21/2013||||
+0|2106|421942|Jerome & Tamara||Monaghen|||2275 Earta Rd||ENOLA|PA|US|17025||||02/21/2013|1|2/21/2013||||
+0|2106|421943|Janet||Shortly|||3504 County Road #3 RR1||CARRYING PLACE|ON|CA|K0K 1L0||||02/21/2013|1|2/21/2013||||
+0|2106|421945|Benjamin & Rachel||Seitz|||6303 SW 42nd Cir||TOPEKA|KS|US|66610||||02/21/2013|1|2/21/2013||||
+0|2106|421946|Riley & Dawn||Cothern|||PO Box 1018||CALDWELL|TX|US|77836||||02/21/2013|1|2/21/2013||||
+0|2106|421898|Jason & Wendy||Patrick|||206 11th St NE Unit 603||ATLANTA|GA|US|30309||||02/21/2013|1|2/21/2013||||
+0|2106|421899|Jonathan & Carol||Sparks|||8805 Wendell Creek Dr||ST. JACOB|IL|US|62281||||02/21/2013|1|2/21/2013||||
+0|2106|421901|Donald & Jaycey||Kelsven|||1701 Heritage Ct||KELLER|TX|US|76248||||02/21/2013|1|2/21/2013||||
+0|2106|421900|Ronald & Rubin||Pfannenstiel|||809 SW 40th St||BLUE SPRINGS|MO|US|64015||||02/21/2013|1|2/21/2013||||
+0|2106|421902|Anna Jocic & E. Luke||Hewitt|||13 Herbert Pl||DUNDAS|ON|CA|L9H 5E1||||02/21/2013|1|2/21/2013||||
+0|2106|421903|Martin & Elizabeth||Tholen|||5080 Turkey Track Rd||PLACERVILLE|CA|US|95667||||02/21/2013|1|2/21/2013||||
+0|2106|421919|Missy Rainey & Feron||Ice|||RR 1 PO Box 204||VANDALIA|IL|US|62471||||02/21/2013|1|2/21/2013||||
+0|2106|421920|Lisa & Andrew||Clark|||1003 Horizon Dr||MARION|IL|US|62959||||02/21/2013|1|2/21/2013||||
+0|2106|421922|Susan & Mark||Matthes|||67 Coppergate Ln||WARWICK|NY|US|10990||||02/21/2013|1|2/21/2013||||
+0|2106|421923|Gary & Brenda||Urquhart|||1681 Serena Dr||MYRTLE BEACH|SC|US|29579||||02/21/2013|1|2/21/2013||||
+0|2106|421924|Gregory & Josie||Shelley|||14784 SW 177th Terrace||MIAMI|FL|US|33187||||02/21/2013|1|2/21/2013||||
+0|2106|421925|Kenny & Marie||Williams|||34 Deacon Dr||PAWLEYS ISLAND|SC|US|29585||||02/21/2013|1|2/21/2013||||
+0|2106|421926|Robert & Lisa||Howell|||25 Timberline Dr||KAHOKA|MO|US|63445||||02/21/2013|1|2/21/2013||||
+0|2106|421927|Arturo & Paula||Alvarado|||118 Hillside Dr||NEW BADEN|IL|US|62265||||02/21/2013|1|2/21/2013||||
+0|2106|422057|James & Michelle||Watson|||81 53221 RNG Rd 223||ARDROSSAN|AB|CA|T8E 2K1||||02/21/2013|1|2/21/2013||||
+0|2106|422033|Tim & Lea||Deisher|||301 Oriole Dr||EVANSVILLE|IN|US|47715||||02/21/2013|1|2/21/2013||||
+0|2106|422034|Joseph & Karen||Alfinito|||50 Quail Hollow Dr||SEWELL|NJ|US|08080||||02/21/2013|1|2/21/2013||||
+0|2106|422035|Larry & Deborah||Gordon|||344 Bayside Dr||ANAHUAC|TX|US|77514||||02/21/2013|1|2/21/2013||||
+0|2106|422036|Wanda Wilson & Virginia||Vitale|||712 W. Lake Dr||WEATHERFORD|TX|US|76087||||02/21/2013|1|2/21/2013||||
+0|2106|422037|John & Vickie||Cox|||1202 Carrington Terr||JOPLIN|MO|US|64804||||02/21/2013|1|2/21/2013||||
+0|2106|422038|Robin & Robert||Phillips|||2225 University||CHICKASHA|OK|US|73018||||02/21/2013|1|2/21/2013||||
+0|2106|422039|Andrew Glenny & Susan||Close|||412 Craigleith Dr||WATERLOO|ON|CA|N2L 5T2||||02/21/2013|1|2/21/2013||||
+0|2106|422040|Helena & Stephen||Joyner|||6049 Electra Lane||PENSACOLA|FL|US|32507||||02/21/2013|1|2/21/2013||||
+0|2106|422041|Kevin Meadows & Gisela||Macedo|||717 Chestnut Hill Dr||ALLEN|TX|US|75013||||02/21/2013|1|2/21/2013||||
+0|2106|422042|James & Mary||Smith|||5204 Sugar Ridge Drive||SUGAR HILL|GA|US|30518||||02/21/2013|1|2/21/2013||||
+0|2106|422045|Sidney & Tara||Anderson|||9836 E. Peralta Ave||MESA|AZ|US|85212||||02/21/2013|1|2/21/2013||||
+0|2106|422822|Harold & Sherri||Taylor|||285 Mari Osa Delta Lane||JEFFERSON CITY|MO|US|65101||||02/21/2013|1|2/21/2013||||
+0|2106|422823|Sandra Burrows & Bruce||Piercey|||128 N Park Dr||ARLINGTON|VA|US|22203||||02/21/2013|1|2/21/2013||||
+0|2106|422824|Frank||Morison|||235 Ypres Green SW||CALGARY|AB|CA|T2T 6M4||||02/21/2013|1|2/21/2013||||
+0|2106|422826|Brian & Bernadette||MacKenzie|||8841 Brunswick Path||INVER GROVE HEIGHTS|MN|US|55076||||02/21/2013|1|2/21/2013||||
+0|2106|422828|Sharon & Lana||Liverant|||135 Ocean Pkwy Unit 46||BROOKLYN|NY|US|11218||||02/21/2013|1|2/21/2013||||
+0|2106|422842|Jerald & Cheryl||Wodek|||183 Bear Dr||GOLDEN|CO|US|80403||||02/21/2013|1|2/21/2013||||
+0|2106|422843|Larry & Dona||Granger|||42221 N Stonemark Dr||ANTHEM|AZ|US|85086||||02/21/2013|1|2/21/2013||||
+0|2106|422844|Mike & Francie||Fruitman|||23625 Northwestern Hwy||SOUTHFIELD|MI|US|48220||||02/21/2013|1|2/21/2013||||
+0|2106|422845|Jeffrey Davis & Mark||Heisler|||PO Box 165||CUMBY|TX|US|75433||||02/21/2013|1|2/21/2013||||
+0|2106|422767|Bradley & Linda||Kowerchuk|||11111 Dunning Cr||NORTH BATTLEFORD|SK|CA|S9A 3M7||||02/21/2013|1|2/21/2013||||
+0|2106|422847|Kenneth & Rebecca||Leddy|||107 S Pohakea Drive||BASTROP|TX|US|78602||||02/21/2013|1|2/21/2013||||
+0|2106|422849|Jay & Alice||Dorsey|||2206 O'Day Road||PEARLAND|TX|US|77581||||02/21/2013|1|2/21/2013||||
+0|2106|422850|George & Christie||Buchman|||5874 Winter Oaks Place||FREDERICK|MD|US|21704||||02/21/2013|1|2/21/2013||||
+0|2106|422852|James Frantze & Melissa||Berger|||906 W Red Bridge Rd||KANSAS CITY|MO|US|64114||||02/21/2013|1|2/21/2013||||
+0|2106|422854|La Donnia & Chris||White|||1516 Creekside Dr||MANSFIELD|TX|US|76063||||02/21/2013|1|2/21/2013||||
+0|2106|420728|Lori & Mark||Harvey|||2227 Cedarbrush Dr||CARROLLTON|TX|US|75006||||02/21/2013|1|2/21/2013||||
+0|2106|419660|Stephen & Lindsay||Lucas|||1823 Biltmore Street Unit B||WASHINGTON|DC|US|20009||||02/21/2013|1|2/21/2013||||
+0|2106|422855|Floyd & Diane||Johnson|||115 Cardinal||LAKE JACKSON|TX|US|77566||||02/21/2013|1|2/21/2013||||
+0|2106|422856|Gregory & Maria||Stanton|||14 Pryer Lane||LARCHMONT|NY|US|10538||||02/21/2013|1|2/21/2013||||
+0|2106|422857|Jason & Irene||Allen|||133 21032 TWP 540||ARDROSSAN|AB|CA|T8E 2A6||||02/21/2013|1|2/21/2013||||
+0|2106|422858|Van & Stephanie||Thompson|||4707 Glenna Way||LOUISVILLE|KY|US|40219||||02/21/2013|1|2/21/2013||||
+0|2106|422859|Virginia & Garry||Gregory|||9280  Glenallan Drive Apt 4||RICHMOND|BC|CA|V7A 2S8||||02/21/2013|1|2/21/2013||||
+0|2106|422860|Joseph & Barbara||VanHoorn|||1246 Sparrow Rd||WACONIA|MN|US|55387||||02/21/2013|1|2/21/2013||||
+0|2106|422861|Jeannette & Glen||Marshall|||1115 Paramount Drive Unit 100||STONEY CREEK|ON|CA|L8J 1P6||||02/21/2013|1|2/21/2013||||
+0|2106|422862|April||Cvetic|||2 Blackstone Ct||MERRIMACK|NH|US|03054||||02/21/2013|1|2/21/2013||||
+0|2106|422863|Jennifer & Jason||Harris|||3204 Eaton Circle||COLLEYVILLE|TX|US|76034||||02/21/2013|1|2/21/2013||||
+0|2106|422874|John Adorno & Michelle||Serrano|||511 Clubhouse Court Unit 6||UNION|NJ|US|07083||||02/21/2013|1|2/21/2013||||
+0|2106|422875|Ron & Charity||Elder|||184 Country Village Lane||CALGARY|AB|CA|T3K 0E8||||02/21/2013|1|2/21/2013||||
+0|2106|422865|Luis & Lillian||Gonzalez|||14207 Fairway Oaks||SAN ANTONIO|TX|US|78217||||02/21/2013|1|2/21/2013||||
+0|2106|422866|Lloyd & Sarah||Pressley|||3620 Igleheart Ave||EVANSVILLE|IN|US|47712||||02/21/2013|1|2/21/2013||||
+0|2106|422867|Erin & Steve||Smallwood|||124 Franklin St S||KITCHENER|ON|CA|N2C 1R4||||02/21/2013|1|2/21/2013||||
+0|2106|422868|Janet & Randall||Frame|||340 Whitewater Way||FRANKLIN|TN|US|37064||||02/21/2013|1|2/21/2013||||
+0|2106|172137|John & Deangela||Hightower|||2304 NE Silver Springs Lane||LEE'S SUMMIT|MO|US|64086||||02/21/2013|1|2/21/2013||||
+0|2106|422869|Kim||Bernard|||201 Leigh Cresc||FORT MCMURRAY|AB|CA|T9K 1K2||||02/21/2013|1|2/21/2013||||
+0|2106|422870|Steven & Sharon||Marshall|||PO Box 250||STAVELY|AB|CA|T0L 1Z0||||02/21/2013|1|2/21/2013||||
+0|2106|422871|Francois Brossard & Francoise||Cambron|||165 Des Oblats||MANIWAKI|QC|CA|J9E 1G4||||02/21/2013|1|2/21/2013||||
+0|2106|422809|Jacqueline & Edward||Skyhar|||129 Clearwater Road||WINNIPEG|MANITOBA|CA|R2J 2T4||||02/21/2013|1|2/21/2013||||
+0|2106|423010|Stanley & Valerie||Swann|||32 Winegarden Trail||DUNDAS|ON|CA|L9H 7M1||||02/21/2013|1|2/21/2013||||
+0|2106|423011|Chester & Linda||Rhoades|||7138 Stagecoach Rd||DUBLIN|CA|US|94568||||02/21/2013|1|2/21/2013||||
+0|2106|423012|Carol & Melamonti||Carpenter|||1224 Earle Way||BURNSVILLE|MN|US|55306||||02/21/2013|1|2/21/2013||||
+0|2106|423014|Roger & Sharon||Tadsen|||115 Belmont Rd||APPLE VALLEY|MN|US|55124||||02/21/2013|1|2/21/2013||||
+0|2106|423015|Andrew & Charlett||Macdonald|||3175 Casanova Circle||LAS VEGAS|NV|US|89120||||02/21/2013|1|2/21/2013||||
+0|2106|423016|Tracy & Kelley||Richardson|||PO Box 226||VEGA|TX|US|79092||||02/21/2013|1|2/21/2013||||
+0|2106|423017|David & Luanne||Weissinger|||N 7246 Hwy 25||DURAND|WI|US|54736||||02/21/2013|1|2/21/2013||||
+0|2106|423018|Sandra Adamson & Todd||Spencer|||135 Quebec St Unit 6||BRACEBRIDGE|ON|US|P1L 1P6||||02/21/2013|1|2/21/2013||||
+0|2106|423019|Neil & Coleen||Ostrower|||35 Longwood Dr||HUNTINGTON STATION|NY|US|11746||||02/21/2013|1|2/21/2013||||
+0|2106|423020|Jeff Smith & Anne||Robert|||74 Sovereign's Gate||BARRIE|ON|CA|L4N 0Y9||||02/21/2013|1|2/21/2013||||
+0|2106|423021|Ivan & Maria||Stoneking|||15727 Marble Bluff Ln||HOUSTON|TX|US|77049||||02/21/2013|1|2/21/2013||||
+0|2106|423022|Stephane||Martel|||15 Rue Des Ducats||BLAINVILLE|QC|CA|J7C 5B5||||02/21/2013|1|2/21/2013||||
+0|2106|423023|Benjamin & Amy||Brenna|||2460 3 1/4 - 5th Street||CUMBERLAND|WI|US|54829||||02/21/2013|1|2/21/2013||||
+0|2106|423024|Michael & Cheryl||McCarthy|||28 54030 - RR 275 Dallas Estates||SPRUCE GROVE|AB|CA|T7X 3V4||||02/21/2013|1|2/21/2013||||
+0|2106|423025|James & Barbara||Green|||4923 California St||OMAHA|NE|US|68132||||02/21/2013|1|2/21/2013||||
+0|2106|423027|Igor & Margarita||Itkin|||1031 Cherry Ave Unit 42||SAN BRUNO|CA|US|94066||||02/21/2013|1|2/21/2013||||
+0|2106|423028|Robert & Alane||Savod|||550 Grand Manor Ct Unit 102||WILMINGTON|NC|US|28405||||02/21/2013|1|2/21/2013||||
+0|2106|423029|Jai & Bharti||Purohit|||215 Harbor Blvd||DESTIN|FL|US|32541||||02/21/2013|1|2/21/2013||||
+0|2106|422990|Daniel & Debora||Hofer|||11 Coopers Close||AIRDRIE|AB|CA|T4B 2X1||||02/21/2013|1|2/21/2013||||
+0|2106|422991|Mark Hattersley & Heather||MacDonald|||92 Crystal Shores Rd Unit 3404||OKOTOKS|AB|CA|T1S 2N1||||02/21/2013|1|2/21/2013||||
+0|2106|422992|Sheila & Jack||Gregston|||4301 N 3mile Rd||MARLOW|OK|US|73055||||02/21/2013|1|2/21/2013||||
+0|2106|422993|Mar & Rebecca||Matusevich|||1836 Fury Way||VIRGINIA BEACH|VA|US|23456||||02/21/2013|1|2/21/2013||||
+0|2106|422994|Cynthia & Wayne||Middleton|||4657 Copperfield Rd||VIRGINIA BEACH|VA|US|23455||||02/21/2013|1|2/21/2013||||
+0|2106|422997|Gary & Gayle||Braverman|||163 Rhode Island Rd||LAKEVILLE|MA|US|02347||||02/21/2013|1|2/21/2013||||
+0|2106|422999|Kristi & Michael||Thompson|||3662 Annie St||BOZEMAN|MT|US|59718||||02/21/2013|1|2/21/2013||||
+0|2106|423000|Dale & Andrea||Loveday|||1060 Beverley Pl||VICTORIA|BC|CA|V8S 3Z8||||02/21/2013|1|2/21/2013||||
+0|2106|423001|John & Sheila||Kirk|||234 Stratford Dr||CHURCHVILLE|PA|US|18966||||02/21/2013|1|2/21/2013||||
+0|2106|423003|Richard & Monique||Swindail|||102 Pointe West Dr||AMHERSTBURG|ON|CA|N9V 3P6||||02/21/2013|1|2/21/2013||||
+0|2106|423004|Yong Jin & Min Jung||Chun|||PO Box 1674||ORLEANS|MA|US|02653||||02/21/2013|1|2/21/2013||||
+0|2106|423005|Matthew & Catherine||Pushee|||698 Tilden Ave||TEANECK|NJ|US|07666||||02/21/2013|1|2/21/2013||||
+0|2106|423006|Brenda & Daniel||Scherer|||33053 Nettle Rd||ST JOSEPH|MN|US|56374||||02/21/2013|1|2/21/2013||||
+0|2106|423007|Jody & Reg||Roy|||796 Shawnee Dr SW||CALGARY|AB|CA|T24 1V9||||02/21/2013|1|2/21/2013||||
+0|2106|423008|Kay||Bowmar|||1215 Dolphin St||ORANGE PARK|FL|US|32073||||02/21/2013|1|2/21/2013||||
+0|2106|422964|David & Jessica||Smart|||4829 Turnberry Lane 6A||COLUMBUS|GA|US|31909||||02/21/2013|1|2/21/2013||||
+0|2106|422965|Bryan & Barbara||Fulton|||3978 Glenfir Court||KELOWNA|BC|CA|V1W 3Z5||||02/21/2013|1|2/21/2013||||
+0|2106|422966|Carrie & John||Schipper|||24508 Star Valley||ST CLAIR SHORES|MI|US|48080||||02/21/2013|1|2/21/2013||||
+0|2106|422969|Michael & Carol||Board|||5609 57 St||BEAUMONT|AB|CA|T4X 1A8||||02/21/2013|1|2/21/2013||||
+0|2106|422972|Debbie Burkett & Tym||Seay|||1021 Atlee Drive||KELLER|TX|US|76248||||02/21/2013|1|2/21/2013||||
+0|2106|422973|Jonathan & Kimmie||Choi|||181 SW 311th St||FEDERAL WAY|WA|US|98023||||02/21/2013|1|2/21/2013||||
+0|2106|422975|Brett & Alyssa||Taylor|||124 Beaverglen Close||FORT MCMURRAY|AB|CA|T9K 2V3||||02/21/2013|1|2/21/2013||||
+0|2106|422987|Alcide Fournier & Chantal||Lajeunesse|||36 Rue St Marie||LA MINERVE|QC|CA|J0T 1S0||||02/21/2013|1|2/21/2013||||
+0|2106|422988|Christy Aylies & Randy||Mill|||338 Tall Oaks Dr NE||ATLANTA|GA|US|30342||||02/21/2013|1|2/21/2013||||
+0|2106|422989|Christopher Ploof & Ann||Cahoon|||405 Bennett Rd||ASHBY|MA|US|01431||||02/21/2013|1|2/21/2013||||
+0|2106|422876|Amanda & William||Gray|||9229 Regents Rd L404||LA JOLIA|CA|US|92037||||02/21/2013|1|2/21/2013||||
+0|2106|422878|Mark Yeaton & Karen||Dowling|||220 B Belknap Drive||PEMBROKE|NH|US|03275||||02/21/2013|1|2/21/2013||||
+0|2106|422879|Edwin & Evangeline||Sayo|||252 30th St||LINDENHURST|NY|US|11757||||02/21/2013|1|2/21/2013||||
+0|2106|422881|Gerald & Karen||Fried|||5621 Pinedale Ave||COTE ST LUC|QC|CA|H4V 2Y1||||02/21/2013|1|2/21/2013||||
+0|2106|422882|Shannon||Warren|||25 Silverado Creek Cres SW||CALGARY|AB|CA|T2X 0L5||||02/21/2013|1|2/21/2013||||
+0|2106|422883|Kim Shukla & Richard||Whitehead|||PO Box 1484||STEINBACH|MB|CA|R5G 1N2||||02/21/2013|1|2/21/2013||||
+0|2106|422884|Cecil & Darlia||Shaw|||2008 Alamo Dr||ARLINGTON|TX|US|76012||||02/21/2013|1|2/21/2013||||
+0|2106|422885|Neil & Tara||Ferris|||PO Box 89063 McKenzie Towne RPO||CALGARY|AB|CA|T2Z 3W3||||02/21/2013|1|2/21/2013||||
+0|2106|192685|Max & Christine||Lamb|||1016 SE Country Ln||LEE'S SUMMIT|MO|US|64081||||02/21/2013|1|2/21/2013||||
+0|2106|422886|Malcolm & Elizabeth||Kennedy|||41654 Firenze St||QUARTZ HILL|CA|US|93536||||02/21/2013|1|2/21/2013||||
+0|2106|422887|Charlene||Pulliam|||518 New Haven Dr||TRACY|CA|US|95378||||02/21/2013|1|2/21/2013||||
+0|2106|422923|Carolyn Powers & Burt||Fuller|||209 41st St||MANHATTAN BEACH|CA|US|90266||||02/21/2013|1|2/21/2013||||
+0|2106|422924|Bruce & Marion||Triner|||6112||ROCKVILLE|MD|US|||||02/21/2013|1|2/21/2013||||
+0|2106|422925|Ryan & Anna||Weispfenning|||2851 109th Ct NE||BLAINE|MN|US|55449||||02/21/2013|1|2/21/2013||||
+0|2106|422926|John & Lisa||Legel|||5419 S 165th St||OMAHA|NE|US|68135||||02/21/2013|1|2/21/2013||||
+0|2106|422927|Dianna Gibson & Christopher||Alk|||331 Corporate Circle, J||GOLDEN|CO|US|80401||||02/21/2013|1|2/21/2013||||
+0|2106|423030|Stephanie & Bruce||Graham|||120 Dickinson St Unit F||PHILADELPHIA|PA|US|19147||||02/21/2013|1|2/21/2013||||
+0|2106|423032|Brad Langley & Angelina||Sundar|||9391 Beckwith Rd||RICHMOND|BC|CA|V6X 1V8||||02/21/2013|1|2/21/2013||||
+0|2106|423033|Jerry & Michelle||Jones|||419 Hwy 354||LAKE CHARLES|LA|US|70607||||02/21/2013|1|2/21/2013||||
+0|2106|423065|Neil Fauerso & Melanie||Sharpe|||118 13th Ave||SEATTLE|WA|US|98122||||02/21/2013|1|2/21/2013||||
+0|2106|423066|Daniel & Trish||Schultz|||5312 27 St||LLOYDMINSTER|AB|CA|T9V 2B6||||02/21/2013|1|2/21/2013||||
+0|2106|423121|Robert||Robinson|||5995 Bicentennial||BEAUMONT|TX|US|77706||||02/21/2013|1|2/21/2013||||
+0|2106|423103|Steven & Raeanne||Mainous|||4211 Mt Alban Rd||VICKSBURG|MS|US|39183||||02/21/2013|1|2/21/2013||||
+0|2106|423104|James & Brandi||Fletchall|||1656 SW Mission Rd||LEES SUMMIT|MO|US|64081||||02/21/2013|1|2/21/2013||||
+0|2106|423105|Kevin & Debra||Tyler|||15006 Howland St||HOUSTON|TX|US|77084||||02/21/2013|1|2/21/2013||||
+0|2106|423106|Richard Culver & Michelle||Lewis|||713 17A Street SE||HIGH RIVER|AB|CA|T1V 1S4||||02/21/2013|1|2/21/2013||||
+0|2106|423107|Joseph Gallart & Gina||Bennicasa|||2057 Sherman Ave||MERRICK|NY|US|11566||||02/21/2013|1|2/21/2013||||
+0|2106|423108|James & Kathleen||Sances|||21962 Farthingdale Ct||DEER PARK|IL|US|60010||||02/21/2013|1|2/21/2013||||
+0|2106|423109|Sandra & Larry||Bird|||6271 Semlin Ct||RICHMOND|BC|CA|U7C 5S3||||02/21/2013|1|2/21/2013||||
+0|2106|423110|Ruth & Paul||Tosi|||1265 Beacon St 802||BROOKLINE|MA|US|02446||||02/21/2013|1|2/21/2013||||
+0|2106|423111|Juanita & George||Flint|||1905 Glen Cove||PLANO|TX|US|75075||||02/21/2013|1|2/21/2013||||
+0|2106|423112|Cathy Carroll & Paul||Peverell|||1207 15 Rockford Rd||TORONTO|ON|CA|M2R 3A3||||02/21/2013|1|2/21/2013||||
+0|2106|423114|Greg Lund & Kim||Siemens|||RR 2 57 C29||LACOMBE|AB|CA|T4L 2N2||||02/21/2013|1|2/21/2013||||
+0|2106|423116|Margarito & Martha||Alvarado|||711 Elm St||MCKINNEY|TX|US|75069||||02/21/2013|1|2/21/2013||||
+0|2106|423117|Rayan & Sally||Petros|||141 View North Court||WOODBRIDGE|ON|CA|L4L 8S2||||02/21/2013|1|2/21/2013||||
+0|2106|423118|Robert & Cinthia||Knaus|||N9312 Hwy W||FOND DU LAC|WI|US|54937||||02/21/2013|1|2/21/2013||||
+0|2106|423085|Elisabeth & Scott||Deitz|||10619 N Pine Ridge Drive||MEQUON|WI|US|53092||||02/21/2013|1|2/21/2013||||
+0|2106|423086|Carmen & Sharon||Draga|||4111 Brookdale Drive||NIAGARA FALLS|ON|CA|L2H 2A9||||02/21/2013|1|2/21/2013||||
+0|2106|423087|Paul & Kathleen||Dalgleish|||3466 Clayton Rd||MISSISSAUGA|ON|CA|L5L 4Z4||||02/21/2013|1|2/21/2013||||
+0|2106|423099|Karl & Deborah||Oddy|||9010 Fairglen Dr||DALLAS|TX|US|75231||||02/21/2013|1|2/21/2013||||
+0|2106|423100|Neil & Keely||Vany|||10 Ridgeland Cres||SHERWOOD PARK|AB|CA|T8A 6N5||||02/21/2013|1|2/21/2013||||
+0|2106|423101|Douglas Gould & Tracey||Griffith|||5123 Balmoral||PIERREFONDS|QC|CA|H8Z 2N3||||02/21/2013|1|2/21/2013||||
+0|2106|423102|Nathalie Lebeau & Martin||Beaulieu|||952 Rue Des Merles||ST HILAIRE|QC|CA|J3H 6G3||||02/21/2013|1|2/21/2013||||
+0|2106|422046|Catharinn Hamilton & Joseph||Binning|||5353 Soledad Mountain Rd||SAN DIEGO|CA|US|92109||||02/21/2013|1|2/21/2013||||
+0|2106|422047|Ginger||Bergman|||923 Stonewood Dr||BRENTWOOD|CA|US|94513||||02/21/2013|1|2/21/2013||||
+0|2106|422048|Daniel||Clancy|||5009 Longhorn Court||ANTIOCH|CA|US|94531||||02/21/2013|1|2/21/2013||||
+0|2106|422049|Timothy Clauss & Keith||Blair|||PO Box 1777||RANCHOS DE TAOS|NM|US|87557||||02/21/2013|1|2/21/2013||||
+0|2106|422050|Diana & Rick||Mesa|||1301 Latta St Unit 423||MIDLAND|TX|US|79701||||02/21/2013|1|2/21/2013||||
+0|2106|422051|Gary & Lisa||Beel|||17212||INDEPENDENCE|MO|US|64055||||02/21/2013|1|2/21/2013||||
+0|2106|422054|Trent Sehnert & Sarah||Borgman|||1300 Rushmore Crescent||BURNSVILLE|MN|US|55306||||02/21/2013|1|2/21/2013||||
+0|2106|422055|Gary & Donna||Mann|||16532 E. Courtney Atherton Rd||SUGAR CREEK|MO|US|64058||||02/21/2013|1|2/21/2013||||
+0|2106|423119|Michael & Brenda||McCarthy|||6137 RR1||COOKSTOWN|ON|CA|L0L 1L0||||02/21/2013|1|2/21/2013||||
+0|2106|423120|Dave & Mary||Sadzewicz|||4655 Old Hwy Rd||MT GREEN|UT|US|84050||||02/21/2013|1|2/21/2013||||
+0|2106|423554|Jorge Rodriguez & Yalis||Casanova|||PO Box 452124||MIAMI|FL|US|33245||||02/21/2013|1|2/21/2013||||
+0|2106|423555|Jaime Badia & Maria||Goldenhorn|||1581 Brickell Ave 1104||MIAMI|FL|US|33129||||02/21/2013|1|2/21/2013||||
+0|2106|423556|Daniel & Lisa||Ramirez|||47 Greenbrook Dr||BLOOMFIELD|NJ|US|07003||||02/21/2013|1|2/21/2013||||
+0|2106|423557|Joel & Mika||Frank|||4696 Timbercrest Dr||CEDARBURG|WI|US|53012||||02/21/2013|1|2/21/2013||||
+0|2106|423558|George Novak & Lorna||Langford|||180 Sherwood Ave||OSHAWA|ON|CA|L1G 3L8||||02/21/2013|1|2/21/2013||||
+0|2106|423559|Taher Sakr & Jennifer||Frew|||130 Maplewood Ave||TORONTO|ON|CA|M6C 1J6||||02/21/2013|1|2/21/2013||||
+0|2106|423584|Robert & Susan||Snode|||548 8th Street||HERMOSA BEACH|CA|US|90254||||02/21/2013|1|2/21/2013||||
+0|2106|422428|Douglas & Cassandra||Hotchkiss|||38 Reynolds Dr||HORSEHEADS|NY|US|14845||||02/21/2013|1|2/21/2013||||
+0|2106|423585|Zara & Dimaz||Ladak|||60 Ravine Edge Dr||RICHMOND HILL|ON|CA|L4E 4J3||||02/21/2013|1|2/21/2013||||
+0|2106|423586|Lyle & Gina||Rosman|||2790 Rosebud Ave||MERRICK|NY|US|11566||||02/21/2013|1|2/21/2013||||
+0|2106|423587|Geoffrey & Angelika||Masotti|||156 Elman Crescent||NEWMARKET|ON|CA|L3Y 7X1||||02/21/2013|1|2/21/2013||||
+0|2106|423351|Jordan & Kelci||Brock|||3343 Highline Trail||SAN ANTONIO|TX|US|78261||||02/21/2013|1|2/21/2013||||
+0|2106|423588|Shelley Ann Woods & Maria||Ritchie|||802 Kananaskis Dr||KINGSTON|ON|CA|K7P 0A9||||02/21/2013|1|2/21/2013||||
+0|2106|423589|Sampson||Kwasi|||380 Prospect Ave 11H||HACKENSACK|NJ|US|07601||||02/21/2013|1|2/21/2013||||
+0|2106|423590|Steve Askew & Tracy||Amoretti|||4440 Willard Ave Unit 1029||CHEVY CHASE|MD|US|20815||||02/21/2013|1|2/21/2013||||
+0|2106|423591|Stacey Abby & Paul||Malak|||16719 Highland Summit Dr||WILDWOOD|MO|US|63011||||02/21/2013|1|2/21/2013||||
+0|2106|423592|Ricardo & Cristina||Ramirez|||243 Pacific Dunes Way||GUADALUPE|CA|US|93434||||02/21/2013|1|2/21/2013||||
+0|2106|423593|Tim & Jocelyn||Lamb|||234 Stephenson Rd Unit 2 East||PORT SYDNEY|ON|CA|P0B 1L0||||02/21/2013|1|2/21/2013||||
+0|2106|419841|Jeff & Sommer||Prichard|||6203 75th Pl||LUBBOCK|TX|US|79424||||02/21/2013|1|2/21/2013||||
+0|2106|419842|Matt & Christina||Collins|||3301 N. 31st St||OZARK|MO|US|65721||||02/21/2013|1|2/21/2013||||
+0|2106|419843|Denis Lyrette & Brenda||Gagnon|||128 Val des Vents||VAL D'OR|QC|CA|J9P 0C3||||02/21/2013|1|2/21/2013||||
+0|2106|419844|Judy & Alan||Moss|||19581 W. 87 Cir||LENEXA|KS|US|66220||||02/21/2013|1|2/21/2013||||
+0|2106|419845|Steve & Julie||Farley|||2679 Redwood Rd||NAPA|CA|US|94558||||02/21/2013|1|2/21/2013||||
+0|2106|193260|Joseph & Patricia||Winters|||3031 Wentworth Court||MURFREESBORO|TN|US|37127||||02/21/2013|1|2/21/2013||||
+0|2106|193261|Michael & Beverly||Sheeham|||911 Ridgewood Drive||CLARKSVILLE|TN|US|37043||||02/21/2013|1|2/21/2013||||
+0|2106|419847|Grayson & Jaklyn||Cato|||251 N. Main St 261B||CEDARVILLE|OH|US|45314||||02/21/2013|1|2/21/2013||||
+0|2106|419848|Richard & Diane||Burris|||8 Bowling Park Rd||ASHEVILLE|NC|US|28803||||02/21/2013|1|2/21/2013||||
+0|2106|419849|Itzel & Miguel||Perez|||1837 Kings Canyon Cir||FT. WORTH|TX|US|76134||||02/21/2013|1|2/21/2013||||
+0|2106|419851|Adriaan & Claudette||Van Niekerk|||303 Morning Cloud St||AUSTIN|TX|US|78734||||02/21/2013|1|2/21/2013||||
+0|2106|419852|Audrey & Seth||Schoem|||3232 Windwood Trials||ST. PETERS|MO|US|63303||||02/21/2013|1|2/21/2013||||
+0|2106|419853|Brent Vickers & Karen||Cutler|||8553 Hardy||LASALLE|QC|CA|H8N 2P3||||02/21/2013|1|2/21/2013||||
+0|2106|419854|Paul & Kristen||Teiken|||138 Cobblestone Drive||LEBANON|PA|US|17042||||02/21/2013|1|2/21/2013||||
+0|2106|419855|Trevor Hoffmann & Kelly||Scott|||1531 Mayfield Rd||EDGEWATER|MD|US|21037||||02/21/2013|1|2/21/2013||||
+0|2106|419856|Patrick O'hara & Traci||Stillwagon|||4055 Woodbridge Rd||COLUMBUS|OH|US|43220||||02/21/2013|1|2/21/2013||||
+0|2106|419858|Brad & Kari||McCune|||2428 Sumac Drive||MANHATTAN|KS|US|66502||||02/21/2013|1|2/21/2013||||
+0|2106|419860|Andrew & Amie||Fay|||554 Miller Rd||OPELOUSAS|LA|US|70570||||02/21/2013|1|2/21/2013||||
+0|2106|419801|Brad & Lara||Johnston|||3485  Foxfield Circle||PERKIOMENVILLE|PA|US|18074||||02/21/2013|1|2/21/2013||||
+0|2106|419802|Henry & Michelle||Robert|||107 Pleasant Ridge Drive||BELLE CHASSE|LA|US|70037||||02/21/2013|1|2/21/2013||||
+0|2106|419803|Idelberto & Mayra||Hernandez|||14731 SW 155 Terr||MIAMI|FL|US|33187||||02/21/2013|1|2/21/2013||||
+0|2106|419804|John & Vicki||Cook|||8412 Wareham Dr||PLANO|TX|US|75024||||02/21/2013|1|2/21/2013||||
+0|2106|419806|Gerardo||Morales|||Mariano Azuela #61 Circuito Novelistas||CD. SATELITE|EDO DE MEX|Mexico|53100||||02/21/2013|1|2/21/2013||||
+0|2106|419807|Howard & Barbara||Patterson|||44 Lauren Lane||COATESVILLE|PA|US|19320||||02/21/2013|1|2/21/2013||||
+0|2106|419808|Joseph & Mary||Summers|||231 Escondido Dr||MARTINEZ|CA|US|94553||||02/21/2013|1|2/21/2013||||
+0|2106|419809|Gregory & Jennifer||Green|||2525 Obetz Dr||BEAVERCREEK|OH|US|45434||||02/21/2013|1|2/21/2013||||
+0|2106|419810|Mary Fadi & Susan||Ostrowski|||47 52304 RR 233||SHERWOOD PARK|AB|CA|T8B 1C9||||02/21/2013|1|2/21/2013||||
+0|2106|419811|Sandra & James||Loyal|||2713 Sir Lancelot Blvd||LEWISVILLE|TX|US|75056||||02/21/2013|1|2/21/2013||||
+0|2106|419812|Robert & Chala||Osborne|||122 Sun Chase Ct||JOHNSON CITY|TN|US|37615||||02/21/2013|1|2/21/2013||||
+0|2106|419813|Alan & Mary Ann||Mallory|||1721 Woolston Way||MODESTO|CA|US|95355||||02/21/2013|1|2/21/2013||||
+0|2106|419814|Lorne Hansen & Karen||Schiff|||60 Clover Leaf Drive Unit 3||ANCASTER|ON|CA|L9K 1S8||||02/21/2013|1|2/21/2013||||
+0|2106|419815|Ira Price & Rebecca||Zarezadegan|||6 Mapleside||HAMILTON|ON|CA|L8P 3Y5||||02/21/2013|1|2/21/2013||||
+0|2106|419816|Rose & Peter||Todora|||2606 Spring Lake Dr||RICHARDSON|TX|US|75082||||02/21/2013|1|2/21/2013||||
+0|2106|419817|Patrick & Stacy||McMahon|||630 Quintana #237||MORRO BAY|CA|US|93442||||02/21/2013|1|2/21/2013||||
+0|2106|419818|Michael||Kulp|||11100 W. 146th St||OVERLAND PARK|KS|US|66062||||02/21/2013|1|2/21/2013||||
+0|2106|419819|David Fisher & Deborah||Feather|||458 London Road||NEWMARKET|ON|CA|L3Y 6G5||||02/21/2013|1|2/21/2013||||
+0|2106|419820|Trevor & Stacy||Maguire|||11802 Royal Castle Ct||CHARLOTTE|NC|US|28277||||02/21/2013|1|2/21/2013||||
+0|2106|419821|Melissa & Edwin||Meehan|||1973 Feuereisen Ave||RONKONKOMA|NY|US|11779||||02/21/2013|1|2/21/2013||||
+0|2106|419822|Jerald & Rhiannon||Santos|||509 Laurelwood Dr||HERCULES|CA|US|94547||||02/21/2013|1|2/21/2013||||
+0|2106|419823|Bryan Burdett & Stacy||Allen|||443 Abbey Place||VILLA RICA|GA|US|30180||||02/21/2013|1|2/21/2013||||
+0|2106|419824|Patricia & William||Pugnetti|||29022 50th Place So||AUBURN|WA|US|98001||||02/21/2013|1|2/21/2013||||
+0|2106|419825|Allan & Trina||Layte|||2 Krahn Court||LEDUC|AB|CA|T9E 0A3||||02/21/2013|1|2/21/2013||||
+0|2106|419826|Shawn & Shannon||Gahagan|||3077 Stratford Ct||CHESAPEAKE|VA|US|23321||||02/21/2013|1|2/21/2013||||
+0|2106|419827|Darryl & Tanya||Becker|||1404 10 Avenue||CANMORE|AB|CA|T1W 1W2||||02/21/2013|1|2/21/2013||||
+0|2106|419828|Greg & Lesley||Rios|||6642 Linwood Dr||ALBERTVILLE|MN|US|55301||||02/21/2013|1|2/21/2013||||
+0|2106|419968|Matthew McGauran & Elaine||Torres|||6766 Flora Dr||LAS VEGAS|NV|US|89103||||02/21/2013|1|2/21/2013||||
+0|2106|419969|Kenneth & Agnes||Shannon|||921 Kensington Pl||AURORA|IL|US|60506||||02/21/2013|1|2/21/2013||||
+0|2106|419970|Sandra Farrell & Richard||Leverence|||1282 Eagle Ct||BARTLETT|IL|US|60103||||02/21/2013|1|2/21/2013||||
+0|2106|419971|David & Mary||Pagliaroni|||16100 38th Street||KENOSHA|WI|US|53144||||02/21/2013|1|2/21/2013||||
+0|2106|419972|Christine Way & John||Hoogwerf|||4444 Notre Dame St PO Box 313||HARROWSMITH|ON|CA|K0H 1V0||||02/21/2013|1|2/21/2013||||
+0|2106|178698|Kristi & Scott||Satterfield|||335 S Springfield View Rd||MARYVILLE|TN|US|37801||||02/21/2013|1|2/21/2013||||
+0|2106|419973|Zulqernain & Anita||Malik|||19191 Mountainview Rd||CALEDON EAST|ON|CA|L7K 2G6||||02/21/2013|1|2/21/2013||||
+0|2106|419974|Kevin & Deb||Walsh|||90 Everett St||PAWTUCKET|RI|US|02861||||02/21/2013|1|2/21/2013||||
+0|2106|419975|Lisa Godlewski & Mark||Kwarunski|||110 Railroad St||MOOSIC|PA|US|18507||||02/21/2013|1|2/21/2013||||
+0|2106|419980|Chen & Anna||Chen|||14 Bighorn Dr.||WAYNE|NJ|US|07470||||02/21/2013|1|2/21/2013||||
+0|2106|419981|Richard & Nancy||Frazer|||6322 Portland Rd||SARANAC|MI|US|48801||||02/21/2013|1|2/21/2013||||
+0|2106|419982|Daniel & Crystal||McLain|||7605 Harvard Ave||RAYTOWN|MO|US|64138||||02/21/2013|1|2/21/2013||||
+0|2106|419983|Brent Phillips & Troy||Broadrick|||2010 Deer Run||DENISON|TX|US|75020||||02/21/2013|1|2/21/2013||||
+0|2106|419984|Amrik Dhesi & Kashmir||Bhandal|||12460 90A Ave||SURREY|BC|CA|V3V 6T3||||02/21/2013|1|2/21/2013||||
+0|2106|419985|Larry & Kathie||Bramlette|||12520 Paige Lane||FREDERICKSBURG|VA|US|22407||||02/21/2013|1|2/21/2013||||
+0|2106|419986|Richard & Caroline||Gray|||1109 N. 2nd||ST. MARYS|KS|US|66536||||02/21/2013|1|2/21/2013||||
+0|2106|189657|Matthew & Melissa||Brett|||69-1010 Wilkes Ave||WINNIPEG|MB|US|R3P 2S4||||02/21/2013|1|2/21/2013||||
+0|2106|419987|Loyd & Vicki||Anderson|||910 Christa Dr||PADUCAH|KY|US|42003||||02/21/2013|1|2/21/2013||||
+0|2106|419988|Michel & Carole||Lacombe|||5541 Terrasse Moreau||ST. HUBERT|QC|CA|J3Y 6N2||||02/21/2013|1|2/21/2013||||
+0|2106|419989|Richard & Kathy||McKimmy|||24513 Stoney Lake Ct||SUN LAKES|AZ|US|85248||||02/21/2013|1|2/21/2013||||
+0|2106|419990|Donald & Mary||Matlack|||400 Elbo Lane||MT. LAUREL|NJ|US|08054||||02/21/2013|1|2/21/2013||||
+0|2106|420056|Patrick & Diane||Tighe|||7608 Percy Court||RALEIGH|NC|US|27613||||02/21/2013|1|2/21/2013||||
+0|2106|420057|Michael Pondrom & Caleb||Edison|||808 S 75th Street||BROKEN ARROW|OK|US|74014||||02/21/2013|1|2/21/2013||||
+0|2106|420063|Michael & Lindsay||Chowaniec|||18 Keewatin Road Po Box 808||RED LAKE|ON|CA|P0V 2M0||||02/21/2013|1|2/21/2013||||
+0|2106|420064|Amber & Corey||Pywell|||5137 Ellison Pl||DUNCAN|BC|CA|V9L 6H5||||02/21/2013|1|2/21/2013||||
+0|2106|420065|Nicole Contino & Dennis||Roberts|||83 Winchester Drive||LINDENHURST|NY|US|11757||||02/21/2013|1|2/21/2013||||
+0|2106|420066|David & Darlene||Carlton|||5365 Savannah Dr||ASHTABULA|OH|US|44004||||02/21/2013|1|2/21/2013||||
+0|2106|420067|Timothy & Mary||McCullough|||6448 Woodbine Ave||PHILADELPHIA|PA|US|19151||||02/21/2013|1|2/21/2013||||
+0|2106|420068|James & Janice||Robinson|||8338 Via Riviera||SANDY|UT|US|84093||||02/21/2013|1|2/21/2013||||
+0|2106|420069|Susan & Jason||McQueary|||29221 Palomino||WARREN|MI|US|48093||||02/21/2013|1|2/21/2013||||
+0|2106|420070|Robert & Caterina||Richard|||9703 Nutsedge Court Unit 2||LOUISVILLE|KY|US|40291||||02/21/2013|1|2/21/2013||||
+0|2106|420071|David & Nancy||LaSlavic|||9537 E. Gary St||MESA|AZ|US|85207||||02/21/2013|1|2/21/2013||||
+0|2106|420072|Carlos & Sharon||Morales|||16316 E. 28th St. S||INDEPENDENCE|MO|US|64055||||02/21/2013|1|2/21/2013||||
+0|2106|420073|Steve & Roxann||Marchesi|||3933 Ludwig||OXFORD|MI|US|48371||||02/21/2013|1|2/21/2013||||
+0|2106|420074|Ida||Wooldridge|||1101 Garmon Dr. NW||ATLANTA|GA|US|30327||||02/21/2013|1|2/21/2013||||
+0|2106|420075|James Shumaker & Cynthia||Hurtt|||1905 Dupont Street||HIXSON|TN|US|37343||||02/21/2013|1|2/21/2013||||
+0|2106|420077|Justin McCarthy & Stephanie||Groark|||2233 William Penn Highway||PITTSBURGH|PA|US|15235||||02/21/2013|1|2/21/2013||||
+0|2106|420078|Kevin & Donna||Johnson|||8932 N. 94th Avenue||PEORIA|AZ|US|85340||||02/21/2013|1|2/21/2013||||
+0|2106|420079|Michael & Jennifer||Muriett|||3555 E. Gary Way||GILBERT|AZ|US|85234||||02/21/2013|1|2/21/2013||||
+0|2106|420080|David & Laurie||Kramer|||1301 Mullens Way||AMELIA|OH|US|45102||||02/21/2013|1|2/21/2013||||
+0|2106|420081|James & Christie||Couvillion|||8155 113st St||OMAHA|NE|US|68154||||02/21/2013|1|2/21/2013||||
+0|2106|420083|Jason & Anna||Volak|||7278 Marmot Ridge Pl||LITTLETON|CO|US|80125||||02/21/2013|1|2/21/2013||||
+0|2106|420084|Abigail & Jeremy||Lancaster|||5531 C Southwest||ST. LOUIS|MO|US|63139||||02/21/2013|1|2/21/2013||||
+0|2106|420085|Mahesha & Varsha||Jhala|||6818 Wildwood Trail||MAYFIELD|OH|US|44143||||02/21/2013|1|2/21/2013||||
+0|2106|420086|Rudolph & Kimberly||Subramany|||9296 Carillon Ct||JONESBORO|GA|US|30236||||02/21/2013|1|2/21/2013||||
+0|2106|420087|Barbara Van Dorn & George||Jacobs|||223 Bayfront||BONITA SPRINGS|FL|US|34134||||02/21/2013|1|2/21/2013||||
+0|2106|420089|Kevin & Debra||McMullen|||9171 Rio Blanco Dr.||FRISCO|TX|US|75033||||02/21/2013|1|2/21/2013||||
+0|2106|420090|Donald & Katherine||Matthews|||9 Endale Drive||ELMSDALE|NS|CA|B2S 1C3||||02/21/2013|1|2/21/2013||||
+0|2106|203293|Robert & Diana||Beatty|||1413 Bantry Ter||MIDLOTHIAN|VA|US|23114||||02/21/2013|1|2/21/2013||||
+0|2106|420091|Eduardo Berrios & Maria||Rivera|||PO Box 366084||SAN JUAN|PUERTO RICO|US|00936||||02/21/2013|1|2/21/2013||||
+0|2106|420092|Robert & Cheri||Darouze|||1608 Wylma Way||MODESTO|CA|US|95350||||02/21/2013|1|2/21/2013||||
+0|2106|417785|Eddy Wiggins & Chris||Kyser|||16800 Deavours Drive||NORTHPORT|AL|US|35475||||02/21/2013|1|2/21/2013||||
+0|2106|419455|Jeffrey & Christine||Yasenchack|||4677 Dornur Dr.||CLEVELAND|OH|US|44109||||02/21/2013|1|2/21/2013||||
+0|2106|422056|Glen & Shayla||Badry|||6318 47 Ave||WETASKIWIN|AB|CA|T9A 3S1||||02/21/2013|1|2/21/2013||||
+0|2106|422365|Diane & Robert||Applegate|||40 Sheffield Dr||COLUMBUS|NJ|US|08022||||02/21/2013|1|2/21/2013||||
+0|2106|416475|Catalina Palacios & Marcus||Weber|||1625 Augusta Bend Dr||HUTTO|TX|US|78634||||02/21/2013|1|2/21/2013||||

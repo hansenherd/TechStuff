@@ -1,0 +1,358 @@
+#!/bin/bash
+
+# Batch File : sftpToFrom.sh
+# Purpose    : To send files to GRS.
+# Author     : Eric Kamradt   Jan-2009
+#
+# Copyright Access Development. All rights reserved.
+# ##############################################################################
+########################################
+#
+# performs an ls on a local directory
+# in order to get a file listing for the filespec
+# specified
+#
+# sample usage:
+#   $ getFileListLocally directory fileSpec
+#
+function getFileListLocally
+{
+    cd $1
+    ls $2
+}
+########################################
+#
+# connects to specified sftp site and performs an ls
+# in order to get a file listing for the filespec
+# specified
+#
+# sample usage:
+#   $ getFileListAtFtpSite acct@sftpServer dir_on_site fileSpec
+#
+#   dir_on_site is the directory to change to once connected to the sftp site
+#   
+function getFileListAtFtpSite
+{
+	sftp $1 <<EOF
+    cd $2
+    ls $3
+    quit
+EOF
+}
+
+# ##############################################################################
+# Function : send
+# Purpose  : 1.  Create of list of files to process.
+#            2.  Build a SFTP Batch file containing the information
+#                   to transfer the above files.
+#            3.  Run SFTP and transfer the files.
+#            4.  Zip and remove the files we sent.
+#
+function getOrPut {
+
+    #
+    # Assign out sftp batch file to the tmp/temp directory.
+    #
+    if [ "Windows_NT" != "${OS}" ]; then
+
+        export BATCH_FILENAME=/tmp/SFTP_FROM_GRS_BATCH.file
+#        export TEST_BATCH_FILENAME=/tmp/SFTP_TO_TEST_SYSTEM.file
+    else
+        export BATCH_FILENAME=c:/temp/SFTP_FROM_GRS_BATCH.file
+#        export TEST_BATCH_FILENAME=c:/temp/SFTP_TO_TEST_SYSTEM.file
+    fi
+
+    # ######################################
+    # Build a sftp batch script to use.
+    #
+
+    # Start fresh
+    rm -f ${BATCH_FILENAME}
+
+    #
+    # If we have a local directory then sftp needs to
+    #   change directories to that local directory.
+    #
+    if [ "" != "${LOCAL_DIRECTORY}" ]; then
+       echo lcd ${LOCAL_DIRECTORY} >> ${BATCH_FILENAME}
+    fi
+
+    #
+    # If we have a remote directory then sftp needs to
+    #   change directories to that remote directory.
+    #
+    if [ "" != "${REMOTE_DIRECTORY}" ]; then
+       echo cd ${REMOTE_DIRECTORY} >> ${BATCH_FILENAME}
+    fi
+
+    #
+    # Make the sftp 'get' or 'put'
+    #
+    if [ "GET" = "${GET_OR_PUT}" ]; then
+        echo " GET GET GET GET GET GET GET GET GET"
+        echo mget ${FILE_FILTER} >> ${BATCH_FILENAME}
+        if [ "true" = "${REMOVE_FILE}" ]; then
+            echo rm ${FILE_FILTER} >> ${BATCH_FILENAME}
+        fi
+    elif [ "PUT" = "${GET_OR_PUT}" ]; then
+       echo " PUT PUT PUT PUT PUT PUT PUT PUT PUT"
+       echo mput ${FILE_FILTER} >> ${BATCH_FILENAME}
+    fi
+
+    #
+    # Make sure we leave sftp
+    #
+    echo quit >> ${BATCH_FILENAME}
+
+    echo .....Generated SFTP commands : BEGIN.............
+    echo . cat ${BATCH_FILENAME}
+    echo .
+    cat ${BATCH_FILENAME}
+    echo .....Generated SFTP commands : END...............
+
+    # ######################################
+    # Transfer the files
+    #
+    # Debugging on PC w/ putty
+    # echo psftp -b ${BATCH_FILENAME} -pw ekamradt ekamradt@172.16.0.96
+    # psftp -b ${BATCH_FILENAME} -pw ekamradt ekamradt@172.16.0.96
+    #
+#    source /root/.keychain/portaldb01.adchosted.com-sh
+
+    if [ "Windows_NT" != "${OS}" ]; then
+        echo .
+        echo . sftp -b ${BATCH_FILENAME} ${SFTP_OPTS}
+        echo .
+        sftp -b ${BATCH_FILENAME} ${SFTP_OPTS}
+    else
+        echo .
+        echo . psftp -b ${BATCH_FILENAME} ${SFTP_OPTS}
+        echo .
+        psftp -b ${BATCH_FILENAME} ${SFTP_OPTS}
+    fi
+
+    export ERROR_CODE=$?
+    echo .
+    echo . ERROR_CODE : ${ERROR_CODE}
+    echo .
+
+    if [ 0 != ${ERROR_CODE} ]; then
+        echo ".."
+        echo ".. *** ERROR *** ${ERROR_CODE}"
+        echo ".. Something went wrong with sftp."
+        echo ".."
+        exit 1;
+    fi
+
+    #
+    # If there is an Archive directory then
+    #   Zip all files we put,
+    #   delete the files after zipped (they are moved into the zip file).
+    #
+    if [ "" != "${LOCAL_DIRECTORY}" ]; then
+        echo ..
+        echo .. cd ${LOCAL_DIRECTORY}
+        echo ..
+        cd ${LOCAL_DIRECTORY}
+    fi
+
+    if [ "" != "${ARCHIVE_DIRECTORY}" ]; then
+
+        export FILES=`ls ${FILE_FILTER}`
+
+        echo ..
+        echo .. FILES :
+        echo .. ${FILES}
+        echo ..
+
+        if [ "PUT" = "${GET_OR_PUT}" ]; then
+            for FIL in ${FILES}; do
+                export ZIP_FILENAME=${ARCHIVE_DIRECTORY}/${DATETIME}.${GET_OR_PUT}.${FIL}.zip
+                echo ..
+                echo .. zip -m  ${ZIP_FILENAME}   ${FIL}
+                echo ..
+                zip ${ZIP_FILENAME} ${FIL}
+            done
+        #
+        # Zip all files we get.
+        #
+        elif [ "GET" = "${GET_OR_PUT}" ]; then
+            for FIL in ${FILES}; do
+                export ZIP_FILENAME=${ARCHIVE_DIRECTORY}/${DATETIME}.${GET_OR_PUT}.${FIL}.zip
+                echo ..
+                echo .. zip ${ZIP_FILENAME}   ${FIL}
+                echo ..
+                zip ${ZIP_FILENAME} ${FIL}
+            done
+        fi
+    fi
+
+    if [ "true" = "${REMOVE_FILE}" ]; then
+
+        if [ "PUT" = "${GET_OR_PUT}" ]; then
+            echo ..
+            echo .. rm -f ${FILE_FILTER}
+            echo ..
+            rm -f ${FILE_FILTER}
+        fi
+    fi
+}
+
+# ##############################################################################
+# Function : showHelp
+# Purpose  : Display the valid way to call this Shell Script.
+#
+function showHelp {
+
+    echo "................................................................"
+    echo ".. ${ERROR}"
+    echo ".. sftpToFrom.sh  GET_OR_PUT  LOCAL_DIR  REMOTE_DIR  FILE_FILTER  SFTP_OPTS ARCHIVE_DIRECTORY  DATETIME  REMOVE_FILE"
+    echo ".."
+    echo "..  Required parameters :"
+    echo ".."
+    echo "..    1.  GET_OR_PUT        : A String usually in the format YYYYMMDD_HHMMSS for time stamping zip files."
+    echo "..    2.  LOCAL_DIR        : The source directory from which to read files."
+    echo "..    3.  REMOTE_DIR   : The destination directory to which to put files ion our local machine."
+    echo "..    4.  FILE_FILTER       : A file wildcard filter for the files we are to process."
+    echo "..    5.  SFTP_OPTS         : The host connection string and any port options for the sftp command line."
+    echo "..    6.  ARCHIVE_DIRECTORY : The directory for the zip files ( all files are zipped )."
+    echo "..    7.  DATETIME          : The Date Time string that is appended to the zip filenames."
+    echo "..    8.  REMOVE_FILE       : 'true' if to remove the file after GET or PUT (doesn't make much sense after a GET BTW)."
+    echo ".. "
+    echo ".. ${ERROR}"
+    echo ".. "
+    exit 1;
+}
+
+# ##############################################################################
+# Start of Main body
+#
+#
+# create a dir with a timestamp and cd to it...this is a cheap way to guarantee that bash wont'
+# expand the FILE_FILTER and expand the name to any matching files that happen to be in the
+# cli dir
+date_time=`date +%Y%m%d-%H%M%S`
+mkdir /tmp/${date_time}
+cd  /tmp/${date_time}
+
+
+#function getParams
+#{
+export GET_OR_PUT=$1
+export LOCAL_DIRECTORY=$2
+export REMOTE_DIRECTORY=$3
+export FILE_FILTER=$4
+export SFTP_OPTS=$5
+export ARCHIVE_DIRECTORY=$6
+export DATETIME=$7
+export REMOVE_FILE=$8
+
+#
+# Show input variable to aid with debugging.
+#
+echo ..
+echo .. GET_OR_PUT...............: ${GET_OR_PUT}
+echo .. LOCAL_DIRECTORY..........: ${LOCAL_DIRECTORY}
+echo .. REMOTE_DIRECTORY.........: ${REMOTE_DIRECTORY}
+echo .. FILE_FILTER..............: ${FILE_FILTER}
+echo .. SFTP_OPTS................: ${SFTP_OPTS}
+echo .. ARCHIVE_DIRECTORY........: ${ARCHIVE_DIRECTORY}
+echo .. DATETIME.................: ${DATETIME}
+echo .. REMOVE_FILE..............: ${REMOVE_FILE}
+echo ..
+
+#
+# Validate the incoming parameters.
+#
+if [ "" = "${FILE_FILTER}" ]; then
+    showHelp;
+fi
+
+case ${GET_OR_PUT} in
+  GET) ;;
+  PUT) ;;
+  *)    export ERROR="GET_OR_PUT '${GET_OR_PUT}' not GET or PUT"
+        showHelp;
+esac
+
+if [ "" = "${SFTP_OPTS}" ]; then
+    export ERROR="SFTP_OPTS is missng."
+    showHelp;
+fi
+
+if [ "" = "${DATETIME}" ]; then
+    export ERROR="DATETIME is missng."
+    showHelp;
+fi
+
+case ${REMOVE_FILE} in
+  true) ;;
+  false) ;;
+  *)    export ERROR="REMOVE_FILE '${REMOVE_FILE}' not 'true' or 'false' "
+        showHelp;
+esac
+#}
+
+#
+# Run the main program.
+#
+echo "**************** BEGIN SFTP PROCESS ****************"
+
+#
+#
+# create a dir with a timestamp and cd to it...this is a cheap way to guarantee that bash wont'
+# expand the FILE_FILTER and expand the name to any matching files that happen to be in the
+# cli dir
+#date_time=`date +%Y%m%d-%H%M%S`
+#mkdir /tmp/${date_time}
+#cd  /tmp/${date_time}
+
+SFTP_FILE_LIST=/tmp/FILES_TO_SFTP.file
+   
+#getParams $*
+
+# if doing a PUT check local dir specified for any files to process
+#getFileListLocally
+
+# if doing a GET check remote dir specified for any files to retrieve
+echo "getFileListAtFtpSite ${SFTP_OPTS} ${LOCAL_DIRECTORY} ${FILE_FILTER}"
+getFileListAtFtpSite ${SFTP_OPTS} ${LOCAL_DIRECTORY} ${FILE_FILTER} >> ${SFTP_FILE_LIST}
+
+if [ 0 -eq $? ]; then
+  echo ... check file contents
+  cat ${SFTP_FILE_LIST}
+  echo ...
+  echo "DO : grep -c ^${FILE_FILTER} ${SFTP_FILE_LIST}"
+  num_files=`grep -c ^${FILE_FILTER} ${SFTP_FILE_LIST}`
+  echo "found ${num_files} matches in output"
+  echo
+
+  if [ 0 -ne $num_files ]; then
+  #   getOrPut;
+     echo "files found ... do sftp operation"
+  else
+     echo "no files to sftp at this time"
+  fi
+else
+  echo "ERROR while validating if there are files to sftp."
+  echo
+  echo
+  echo "**************** END SFTP PROCESS ****************"
+  echo
+  echo
+fi
+
+cat ${SFTP_FILE_LIST} >> "${SFTP_FILE_LIST}.old"
+rm ${SFTP_FILE_LIST}
+
+cd /root
+
+# remove temporary directory created above
+#rmdir /tmp/${date_time}
+
+
+
+
+
+
+

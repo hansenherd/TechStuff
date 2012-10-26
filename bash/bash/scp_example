@@ -1,0 +1,7 @@
+general 
+  scp <file> acct@server:/dir_on_server/filename
+or
+  scp acct@server:/dir_on_server/filename /some/local/directory
+
+ex. that worked
+scp AMP_orgs_n_progs_to_create.csv shansen@10.100.2.79:/home/shansen/AMP_orgs_n_progs_to_create.csv                      

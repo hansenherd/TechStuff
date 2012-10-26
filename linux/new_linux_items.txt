@@ -1,0 +1,89 @@
+
+can simplify 2>&1 to just &>
+
+can empty a file by just $ > file.ext
+
+
+Processes:  jobs, fg, bg, &
+
+re-load a bash environment (no need to exit and re-load bash)
+  $ source .bashrc
+  or
+  $ . .bashrc
+
+
+utilities
+  zless - view a compressed text file
+  type <command> - check if a command is used prior do doing an alias
+  ln -s - soft links preferrable to hardlinks
+  info coreutils - an alternate to man pages (hyper linked) ... gives a summary of a lot of utilities
+      - <enter> : on an astrick follows a link
+      - u : returns to parent link
+      - q : exits
+  
+  cut -d <delimiter> -f field
+   e.g.  To return the number of lines in a file
+    $ wc -f some_file.txt | cut -d ' ' -f 1
+
+   du - estimate file disk usage (-c = add a total, -h = human readable)
+   $ du ./MemberImport* -c -h
+
+   df - check file system usage
+   $ df . -h   = file usage for current drive in human readable output
+
+  to quickly view contents of a file (rather than vi)
+    $ cat <file> | less
+
+
+  in vi, here's how to search for hex (non-utf-8 characters)
+  e.g.
+    /[\xa0]
+
+  to try : /[\x00-\x10] to search for a range of bad characters
+
+  to do a search and replace, uses sed command at the : prompt
+  e.g.
+    :%s/[\xa0]//g
+     notes: sed s/<exp>/<replace with>/ syntax
+            % = replace for whole file rather than just the current line
+            g = relace all instances on a given line, not just the first instance
+
+tell vi to encode with utf-8
+:set bomb 
+:set fileencoding=utf-8
+
+// VI tutorial ... shows advanced features
+http://www.yolinux.com/TUTORIALS/LinuxTutorialAdvanced_vi.html
+
+other VI advanced features:
+
+$ vi file1 file2 file3   -- loads multiple file
+   -- then :n moves to the next file
+   -- and  :prev move to the previous file
+
+:
+:sp   -- creates a split screen, can open another file
+   ctl-w then up or down arrow moves between the split screens
+
+:tabe   -- creates a new tab window that can edit another file
+     :tabp or gt   - to jump to previous tab 
+     :tabn or gT   - to jump to next tab
+
+Any command line can be issued if preceded with a !
+  e.g.
+     $ !ls -al
+     $ !pwd
+
+
+Remove windows line endings from within VIM
+:%s/<ctl-v><ctrl-m>//
+   -- to enter a control character, a <ctrl-v> must proceed the desired character
+   -- so <ctl-v><ctrl-m> produces the ^M control character for the windows newline
+
+
+
+
+
+
+
+

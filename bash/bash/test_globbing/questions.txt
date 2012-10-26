@@ -1,0 +1,6 @@
+what's the difference between
+echo $1 and
+echo "$1"
+
+it definitely affects globbing.
+

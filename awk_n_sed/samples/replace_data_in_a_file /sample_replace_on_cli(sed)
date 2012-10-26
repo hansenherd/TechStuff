@@ -1,0 +1,12 @@
+# sed can be used on the command line
+
+# method 1 - pipe input into sed
+echo "hi there" | sed 's/hi/bye/'
+
+# sed doesn't persist, so to save changes, redirect to a file
+echo "hi there" | sed 's/hi/bye/' > test.txt
+
+# by default, just the first occurance found is replaced
+# to replace all, add the global (g) flag
+
+echo "hi there hi hi hi" | sed 's/hi/bye/g'

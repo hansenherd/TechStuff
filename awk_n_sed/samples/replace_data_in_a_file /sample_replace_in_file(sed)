@@ -1,0 +1,6 @@
+# sed can be used to replace data in a file
+sed 's/100/10/' $1
+
+# sed doesn't alter the passed file
+# to store changes, redirect the output to a file
+# as desired

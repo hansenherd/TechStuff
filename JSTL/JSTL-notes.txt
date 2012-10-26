@@ -1,0 +1,20 @@
+c:forEach is useful to iterate over data.
+
+<c:forEach var="thing" items="${things}" varStatus="status">
+
+    <a href="${thing.link}">${thing.description}</a>
+
+    ${not status.last ? '<hr/>' : ''}
+
+</c:forEach>
+
+The important bits of the above snippet are the varStatus="status" and status.last. 
+The first one defines a 'status' variable, and the second one accesses it to ask if 
+this row is the 'last'.
+
+The status object has a number of useful methods:
+
+current, index, count, first, last, begin, step, end
+
+
+

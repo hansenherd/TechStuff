@@ -1,0 +1,36 @@
+1095 	AFFINION 	100 	Travel Advantages 	  	  	PARTNET 	MONERIS 	295172422889 	TRAVEL ADV CASH REWARDS
+1504 	Access Development 	160 	ADC Mcx Rewards 		  	PARTNET 	MONERIS 	  	 
+2021 	eMembersOnly 	110 	eMembersOnly 	???
+2169 	Mission Tuition 	120 	Mission Tuition 		Christina 	PARTNET 	MONERIS 	  	 
+4663 	AFFINION 	100 	Complete Home - Registered Card 		Becky 	PARTNET 	MONERIS 	295296838887 	REWARD—COMPLETE HOME
+4779 	HomeESP 	130 	HomeESP`s Savings Center 	???
+4789 	  	? 	Masovi Savings Card 	???
+8477 	UEA 	140 	UEA - Utah Education Association 		Emily 	PARTNET 	MONERIS 	  	 
+8478 	UEA 	140 	UEA - Utah Education Association 		Emily 	PARTNET 	MONERIS 	  	 
+10792 	AFFINION 	100 	Great Fun 		Becky 	PARTNET 	MONERIS 	295296839885 	REWARD—GREAT FUN
+10835 	AFFINION 	100 	my-cashrewards.com
+10863 	AFFINION 	100 	Great Fun 14 Fandango 	???
+10864 	AFFINION 	100 	Great Fun 15 Priceline 	???
+10865 	AFFINION 	100 	Elite Excursions 	???
+10871 	AFFINION 	100 	Deal or No Deal 	???
+10878 	AFFINION 	100 	f.y.e. Backstage Pass VIP 		Becky 	PARTNET 	MONERIS 	295169371883 	f.y.e. VIP Cash Rewards 
+10880 	AFFINION 	100 	Auto Gold Cash Rewards 		Becky 	PARTNET 	MONERIS 	295172421881 	AUTOVANTAGE CASH REWARDS
+10881 	AFFINION 	100 	Everyday Values 		Becky 	PARTNET 	MONERIS 	295172420883 	Everyday Cash Rewards
+10882 	AFFINION 	100 	Auto Enhanced Cash Rewards 		Becky 	PARTNET 	MONERIS 	295172421881 	AUTOVANTAGE CASH REWARDS
+10886 	AFFINION 	100 	Services in Sync
+10887 	AFFINION 	100 	Game Crazy MVP Plus 	
+10888 	AFFINION 	100 	Kazaa 	???
+10896 	AFFINION 	100 	Everywhere Cash Savings
+10898 	AFFINION 	100 	Great Fun Cash Rewards 	???
+10908 	AFFINION 	100 	Citizens Bank - Student Money Bundle
+10909 	AFFINION 	100 	Charter One - Student Money Bundle 	
+10914 	AFFINION 	100 	Telebrands
+10917 	AFFINION 	100 	Drugstore.com
+10955 	AFFINION 	100 	Live Well 	
+11042 	AFFINION 	100 	1-800-Flowers
+12487 	AFFINION 	100 	Online Local Savings
+12524 	TQ-Max 	150 	TQ-Max (Inactive group) 	???
+12530 	AFFINION 	100 	CareOne 	???
+98042 	AFFINION 	100 	Great Fun Cash Rewards
+98088 	AFFINION 	100 	Everyday Privileges Gold - Registered Card 	???
+

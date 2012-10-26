@@ -1,0 +1,54 @@
+localDirectory = on our filesystem
+removeDirectory = on sftp system
+
+
+grs.sftp.cmd.20.sftpOpts=${disney.sftp.adc2disney.sftpOpts} : -oPort=2238 AD_TIC@corpftp2.disney.com
+grs.sftp.cmd.20.filenameFilter=${disney.sftp.adc2disney.filenameFilter} *.XML.PGP
+grs.sftp.cmd.20.getOrPut=${disney.sftp.adc2disney.getOrPut}  : PUT
+grs.sftp.cmd.20.localDirectory=${disney.sftp.adc2disney.localDirectory} : /amp/opt/disney/adc2disney-outbox
+grs.sftp.cmd.20.remoteDirectory=${disney.sftp.adc2disney.remoteDir} : /to_disney/
+grs.sftp.cmd.20.remove=${disney.sftp.adc2disney.remove}
+grs.sftp.cmd.20.archiveDirectory=${disney.sftp.adc2disney.archiveDirectory}
+
+
+
+grs.sftp.cmd.24.filenameFilter=*.zip
+grs.sftp.cmd.24.getOrPut=PUT
+grs.sftp.cmd.24.localDirectory=${disney.root}/archive-nas
+grs.sftp.cmd.24.remoteDirectory=${sftp.root.nas}/disney
+grs.sftp.cmd.24.remove=true
+grs.sftp.cmd.24.sftpOpts=${disney.sftp.connection.nas} : blah@nas.access.com
+grs.sftp.cmd.24.archiveDirectory=${disney.root}/archive/pushedToNas
+
+
+
+grs.sftp.cmd.25.filenameFilter=${disney.sftp.disney2adc.filenameFilter} *.xml.pgp
+grs.sftp.cmd.25.getOrPut=${disney.sftp.disney2adc.getOrPut} : GET
+grs.sftp.cmd.25.localDirectory=${disney.sftp.disney2adc.localDirectory} : /opt/amp/disney/status-decrypt-inbox
+grs.sftp.cmd.25.remoteDirectory=${disney.sftp.disney2adc.remoteDirectory} : /home/ftpusers/disney01/incoming/
+grs.sftp.cmd.25.remove=${disney.sftp.disney2adc.remove}
+grs.sftp.cmd.25.sftpOpts=${disney.sftp.disney2adc.sftpOpts}  : root@<disney ip>
+grs.sftp.cmd.25.archiveDirectory=${disney.sftp.disney2adc.archiveDirectory}
+
+
+grs.sftp.cmd.35.archiveDirectory=
+grs.sftp.cmd.35.filenameFilter=*.???
+grs.sftp.cmd.35.getOrPut=PUT
+grs.sftp.cmd.35.localDirectory=/opt/amp/fip/archive
+grs.sftp.cmd.35.remoteDirectory=${sftp.root.nas}/fip/archive
+grs.sftp.cmd.35.remove=true
+grs.sftp.cmd.35.sftpOpts=svcwrsync@nasthree.memberweb.accessdevelopment.com
+grs.sftp.cmd.36.archiveDirectory=
+grs.sftp.cmd.36.filenameFilter=*.gz
+grs.sftp.cmd.36.getOrPut=PUT
+grs.sftp.cmd.36.localDirectory=/opt/amp/cjg/archive
+grs.sftp.cmd.36.remoteDirectory=${sftp.root.nas}/cjg
+grs.sftp.cmd.36.remove=true
+grs.sftp.cmd.36.sftpOpts=svcwrsync@nasthree.memberweb.accessdevelopment.com
+grs.sftp.connection.grs=-oPort=10022 4444440G@vitalce.vitalps.com
+grs.sftp.connection.mie=root@10.100.2.32
+grs.sftp.connection.nas=svcwrsync@nasthree.memberweb.accessdevelopment.com
+grs.sftp.connection.prod=root@10.100.2.32
+grs.sftp.grs2adc.filefilter=20*B001742*.GRSO
+
+
